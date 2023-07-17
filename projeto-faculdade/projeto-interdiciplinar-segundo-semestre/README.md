@@ -1,0 +1,3 @@
+Nesse projeto, o objetivo era criar um banco de dados relacional e apresentar com slides o modelo conceitual, lógico e físico do mesmo.
+Para essa aplicacao, usei o NetBeans com o JFrame para o frontend, o JOptionPane para interacoes, o xampp para o gerenciamento do banco de dados (armazenado no localhost) e no backend o java. 
+Fiz uma classe para conexao com o banco de dados, classes DAO para comunicacao das classes DTO com a classe que faz a conexao com o banco.  
