@@ -1,0 +1,1 @@
+Nessa aula, estudamos logica de programacao e os desafios foram feitos no portugol studio IDE.
