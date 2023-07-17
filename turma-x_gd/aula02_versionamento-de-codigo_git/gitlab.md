@@ -1,0 +1,1 @@
+Nessa aula, eu criei um repositorio no gitlab e via linha de comando, resolvi os desafios. Como todos os desafios estao no mesmo repositorio, deixarei o link para que possam acessa-lo e ver a resolucao dos desafios: https://gitlab.com/FragaTheus/gd-turma_x-matheus
