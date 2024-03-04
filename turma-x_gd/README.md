@@ -1,8 +1,7 @@
-A GD(gerador de devs) é uma equipe de programadores que cuidam do grupo da JBS entre outros, com projetos no Brasil e no exterior. 
-Sou um dos alunos da GD e esse é o conteudo que estou estudando com eles.
-O que aprendo? Do basico ao avancado em Java, versionamento de código, boas praticas no codigo e na manipulacao de arquivos e projetos, banco de dados, documentacao APi e etc. 
-Link site GD: https://geradordedevs.com.br/ 
-Todas as pastas das aulas, contém outras pastas com aulas divididas, nessas pastas tem o conteudo da aula, os desafios passados e a resolucao deles.
-Na pratica, o que eu mais fazia era o versionamento de codigo e auxiliava o nosso padrinho (Um desenvolvedor experiente que nos orientava) a resolver solucoes basicas. 
+Durante meu período como trainee na GD (Gerador de Devs), tive a oportunidade incrível de mergulhar em um ambiente de aprendizado dinâmico e colaborativo. A GD é uma equipe de programadores dedicados que cuidam dos projetos do grupo da JBS, tanto no Brasil quanto no exterior.
+
+Na GD, fui exposto a uma cultura que valoriza e promove boas práticas tanto na programação quanto no versionamento de código. Através de aulas, desafios práticos e revisões de código, adquiri uma compreensão mais profunda não apenas das linguagens e tecnologias, mas também dos processos e metodologias que sustentam um desenvolvimento de software eficaz.
+
+Minha participação como trainee na GD foi uma experiência enriquecedora que moldou minha abordagem profissional e me preparou para os desafios do mundo real. Estou grato pela oportunidade de ter sido parte desta equipe dedicada e apaixonada por tecnologia.
 
 OBS: infelizmente, por motivos internos, o grupo encerrou suas atividades.
