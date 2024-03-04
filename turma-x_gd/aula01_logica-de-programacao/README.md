@@ -1,5 +1,4 @@
 
-Com certeza, aqui está a atualização do README:
 
 Projeto de Aprendizado em Lógica de Programação
 Descrição do Projeto
