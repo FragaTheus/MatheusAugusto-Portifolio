@@ -1,6 +1,3 @@
-
-Claro, aqui está uma introdução para o seu GitHub:
-
 👋 Bem-vindo(a) ao meu GitHub! 👋
 
 Olá! Meu nome é Matheus e estou muito feliz em recebê-lo(a) no meu espaço dedicado ao desenvolvimento de software. Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no segundo semestre do curso. Este GitHub foi criado com o objetivo de compartilhar meu aprendizado prático e algumas das atividades que tenho realizado.
